@@ -1,0 +1,43 @@
+#labo{
+    width:1000px;
+    height:700px;
+    margin-top:0;
+    margin-left:auto;
+    margin-bottom:0;
+    margin-right:auto;
+    background-color:#666;
+}
+
+/*COMENTARIO*/
+
+#header{
+    width:1000px;
+    height:400px;
+    background-color: #00F;
+}
+
+#cuerpo{
+    width:1000px;
+    height:100px;
+    background-color: #0F0;
+}
+
+#footer{
+    width:1000px;
+    height:500px;
+    background-color: #C3C;
+}
+
+#cuerpo-left{
+    width:1000px;
+    height:200px;
+    float:left;
+    background-color: #FF0;
+}
+
+#cuerpo-right{
+    width:1000px;
+    height:100px;
+    float:right;
+    background-color: #F00;
+}
